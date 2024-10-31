@@ -1,4 +1,4 @@
-# 2️⃣ Desafio Calculadora de Partidas Rankeadas do Digital Innovation One.
+# 2️⃣ Desafio Calculadora de Partidas Rankeadas do DIO.
  
 **O que deve ser utilizado:**
 
